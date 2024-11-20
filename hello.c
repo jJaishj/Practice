@@ -6,6 +6,7 @@
 #define Q1 1
 #define Q2 2
 #define Q3 3
+#define Q3 3
 
 int transitions[4][2] = {
     {Q1, Q2},
